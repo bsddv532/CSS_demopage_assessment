@@ -1,0 +1,49 @@
+.background{
+    background-color: yellow;
+    font-weight: 900 ;
+}
+
+#first {
+    line-height: 40px;
+    color: brown;
+}
+
+#second{
+    letter-spacing: 4px;
+    color: brown;
+}
+
+h1{
+    color:red
+}
+
+h2{
+    color: red;
+    font-style: italic;
+}
+
+a{
+    color: red;
+    font-style: italic;
+    text-decoration: none;
+    background-color: yellow;
+}
+
+p{
+    color: brown;
+}
+
+button{  
+    width: 10%;
+    font-size: large;
+    font-weight: bold;
+}
+button:hover{
+    background-color: aqua;
+    border-radius: 20px;  
+}
+
+#img_link{
+    text-decoration: none;
+}
+
